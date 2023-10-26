@@ -1,18 +1,20 @@
 <template>
   <div id="app">
-    <VueformDemo></VueformDemo>
+    <header-section />
+    <hero-section />
+    <advert-section />
+    <feature-section />
+    <process-section />
+    <testimonials />
+    <faq-section />
+    <footer-section />
   </div>
 </template>
 
 <script>
-  import VueformDemo from './../components/VueformDemo'
-
-  export default {
-    name: 'App',
-    components: {
-      VueformDemo
-    }
-  }
+export default {
+  name: 'App'
+}
 </script>
 
 <style></style>

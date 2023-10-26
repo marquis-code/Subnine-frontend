@@ -1,16 +1,16 @@
 {
-  "name": "@vueform/nuxt-starter",
+  "name": "Trust_wallet",
   "version": "1.0.0",
   "private": false,
-  "description": "Vueform Nuxt 2 + Tailwind CSS 3 Boilerplate",
+  "description": "Trust wallet. A plattform where you can trust when trading.",
   "licence": "MIT",
-  "author": "Adam Berecz <adam@vueform.com>",
+  "author": "Marquis",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vueform/nuxt-starter.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/vueform/nuxt-starter/issues"
+    "url": ""
   },
   "scripts": {
     "dev": "nuxt",
